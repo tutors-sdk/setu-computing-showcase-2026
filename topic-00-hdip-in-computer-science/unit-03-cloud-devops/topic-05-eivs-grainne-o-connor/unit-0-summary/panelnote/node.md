@@ -1,9 +1,6 @@
-<img src="img/poster.jpeg" alt="EIVS - Evaluating Open Source Image vulnerability scanners so that images can safely be used for building and deploying a RAG LLM pipeline for crochet patterns. Poster" style="float: right; height: auto; max-height: 100vh; max-width: 50%; margin-left: 20px; margin-bottom: 20px;">
-<div style="max-width: 35%; float: left;">
+# EIVS - Evaluating Open Source Image vulnerability scanners so that images can safely be used for building and deploying a RAG LLM pipeline for crochet patterns. - Grainne O'Connor
 
-<img src="img/profile.jpeg" alt="Grainne O'Connor" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
-
-## EIVS - Evaluating Open Source Image vulnerability scanners so that images can safely be used for building and deploying a RAG LLM pipeline for crochet patterns. - Grainne O'Connor
+<img src="img/llm.png" alt="EIVS - Evaluating Open Source Image vulnerability scanners so that images can safely be used for building and deploying a RAG LLM pipeline for crochet patterns. Poster" style="float: right; height: auto; max-height: 100vh; max-width: 65%; margin-left: 20px; margin-bottom: 20px;">
 
 
 ### Abstract

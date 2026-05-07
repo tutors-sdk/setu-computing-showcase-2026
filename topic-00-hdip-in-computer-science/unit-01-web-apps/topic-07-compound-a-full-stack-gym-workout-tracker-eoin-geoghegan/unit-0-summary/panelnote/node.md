@@ -1,10 +1,6 @@
-<img src="img/poster.jpeg" alt="Compound – A Full-Stack Gym Workout Tracker Poster" style="float: right; height: auto; max-height: 100vh; max-width: 50%; margin-left: 20px; margin-bottom: 20px;">
-<div style="max-width: 35%; float: left;">
+# Compound – A Full-Stack Gym Workout Tracker - Eoin Geoghegan
 
-
-<img src="img/profile.jpeg" alt="Eoin Geoghegan" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
-
-## Compound – A Full-Stack Gym Workout Tracker - Eoin Geoghegan
+<img src="img/llm.png" alt="Compound – A Full-Stack Gym Workout Tracker Poster" style="float: right; height: auto; max-height: 100vh; max-width: 65%; margin-left: 20px; margin-bottom: 20px;">
 
 
 ### Abstract

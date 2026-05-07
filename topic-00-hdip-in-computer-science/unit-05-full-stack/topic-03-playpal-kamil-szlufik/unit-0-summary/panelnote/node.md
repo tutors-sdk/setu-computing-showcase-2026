@@ -1,9 +1,6 @@
-<img src="img/poster.jpeg" alt="PlayPal Poster" style="float: right; height: auto; max-height: 100vh; max-width: 50%; margin-left: 20px; margin-bottom: 20px;">
-<div style="max-width: 35%; float: left;">
+# PlayPal - Kamil Szlufik
 
-<img src="img/profile.jpeg" alt="Kamil Szlufik" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
-
-## PlayPal - Kamil Szlufik
+<img src="img/llm.png" alt="PlayPal Poster" style="float: right; height: auto; max-height: 100vh; max-width: 65%; margin-left: 20px; margin-bottom: 20px;">
 
 
 ### Abstract

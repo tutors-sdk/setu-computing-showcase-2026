@@ -1,10 +1,6 @@
-<img src="img/poster.jpeg" alt="EnferVision Poster" style="float: right; height: auto; max-height: 100vh; max-width: 50%; margin-left: 20px; margin-bottom: 20px;">
-<div style="max-width: 35%; float: left;">
+# EnferVision - Daniel Cullen
 
-
-<img src="img/profile.jpeg" alt="Daniel Cullen" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
-
-## EnferVision - Daniel Cullen
+<img src="img/llm.png" alt="EnferVision Poster" style="float: right; height: auto; max-height: 100vh; max-width: 65%; margin-left: 20px; margin-bottom: 20px;">
 
 
 ### Abstract

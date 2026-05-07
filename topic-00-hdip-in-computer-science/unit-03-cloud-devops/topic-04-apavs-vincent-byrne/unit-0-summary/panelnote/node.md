@@ -1,9 +1,6 @@
-<img src="img/poster.jpeg" alt="APAVS Poster" style="float: right; height: auto; max-height: 100vh; max-width: 50%; margin-left: 20px; margin-bottom: 20px;">
-<div style="max-width: 35%; float: left;">
+# APAVS - Vincent Byrne
 
-<img src="img/profile.jpeg" alt="Vincent Byrne" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
-
-## APAVS - Vincent Byrne
+<img src="img/llm.png" alt="APAVS Poster" style="float: right; height: auto; max-height: 100vh; max-width: 65%; margin-left: 20px; margin-bottom: 20px;">
 
 
 ### Abstract

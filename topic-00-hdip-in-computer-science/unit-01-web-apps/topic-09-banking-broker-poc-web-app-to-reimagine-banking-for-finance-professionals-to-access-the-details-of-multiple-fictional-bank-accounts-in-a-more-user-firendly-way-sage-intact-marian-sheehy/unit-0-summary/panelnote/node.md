@@ -1,10 +1,6 @@
-<img src="img/poster.jpeg" alt="Banking Broker - Poc Web App to reimagine banking for Finance Professionals to access the details of multiple fictional bank accounts in a more user firendly way. (Sage Intact) Poster" style="float: right; height: auto; max-height: 100vh; max-width: 50%; margin-left: 20px; margin-bottom: 20px;">
-<div style="max-width: 35%; float: left;">
+# Banking Broker - Poc Web App to reimagine banking for Finance Professionals to access the details of multiple fictional bank accounts in a more user firendly way. (Sage Intact) - Marian Sheehy
 
-
-<img src="img/profile.jpeg" alt="Marian Sheehy" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
-
-## Banking Broker - Poc Web App to reimagine banking for Finance Professionals to access the details of multiple fictional bank accounts in a more user firendly way. (Sage Intact) - Marian Sheehy
+<img src="img/llm.png" alt="Banking Broker - Poc Web App to reimagine banking for Finance Professionals to access the details of multiple fictional bank accounts in a more user firendly way. (Sage Intact) Poster" style="float: right; height: auto; max-height: 100vh; max-width: 65%; margin-left: 20px; margin-bottom: 20px;">
 
 
 ### Abstract

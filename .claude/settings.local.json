@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:tutors-reference-manual.netlify.app)"
+      "WebFetch(domain:tutors-reference-manual.netlify.app)",
+      "Bash(python3 *)"
     ]
   }
 }
