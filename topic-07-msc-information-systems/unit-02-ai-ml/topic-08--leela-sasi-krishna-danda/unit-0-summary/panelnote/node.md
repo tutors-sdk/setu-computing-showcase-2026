@@ -1,8 +1,9 @@
+#  - Leela Sasi Krishna Danda
+
 <div style="max-width: 35%; float: left;">
 
 <img src="img/profile.jpeg" alt="Leela Sasi Krishna Danda" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
 
-##  - Leela Sasi Krishna Danda
 
 
 ### Abstract

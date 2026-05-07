@@ -1,7 +1,8 @@
+# Fools Hand TD - Jessica Browne
+
 <img src="img/poster.jpeg" alt="Fools Hand TD Poster" style="float: right; height: auto; max-height: 100vh; max-width: 50%; margin-left: 20px; margin-bottom: 20px;">
 <div style="max-width: 35%; float: left;">
 
-## Fools Hand TD - Jessica Browne
 
 
 ### Abstract

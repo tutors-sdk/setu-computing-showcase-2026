@@ -1,8 +1,9 @@
+# "GoRTS": Smart Test Selection for Golang - Pawel Paszki
+
 <div style="max-width: 35%; float: left;">
 
 <img src="img/profile.jpeg" alt="Pawel Paszki" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
 
-## "GoRTS": Smart Test Selection for Golang - Pawel Paszki
 
 
 ### Abstract

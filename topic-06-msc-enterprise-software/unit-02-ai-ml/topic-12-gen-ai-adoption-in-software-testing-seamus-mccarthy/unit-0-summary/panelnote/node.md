@@ -1,8 +1,9 @@
+# Gen AI Adoption in Software Testing - Seamus McCarthy
+
 <div style="max-width: 35%; float: left;">
 
 <img src="img/profile.jpeg" alt="Seamus McCarthy" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
 
-## Gen AI Adoption in Software Testing - Seamus McCarthy
 
 
 ### Abstract

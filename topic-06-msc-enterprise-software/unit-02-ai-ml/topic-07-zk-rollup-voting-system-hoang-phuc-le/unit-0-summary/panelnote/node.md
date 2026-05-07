@@ -1,8 +1,9 @@
+# ZK-Rollup Voting System - Hoang Phuc Le
+
 <div style="max-width: 35%; float: left;">
 
 <img src="img/profile.jpeg" alt="Hoang Phuc Le" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
 
-## ZK-Rollup Voting System - Hoang Phuc Le
 
 
 ### Abstract

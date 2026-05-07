@@ -1,8 +1,9 @@
+# PathFinder AI: Smart Career Guide - Hanan N I Alhajahmed
+
 <div style="max-width: 35%; float: left;">
 
 <img src="img/profile.jpeg" alt="Hanan N I Alhajahmed" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
 
-## PathFinder AI: Smart Career Guide - Hanan N I Alhajahmed
 
 
 ### Abstract

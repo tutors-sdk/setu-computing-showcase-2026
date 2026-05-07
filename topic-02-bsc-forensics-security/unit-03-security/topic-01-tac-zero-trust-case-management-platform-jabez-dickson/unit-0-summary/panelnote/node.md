@@ -1,7 +1,8 @@
+# TAC Zero Trust Case Management Platform - Jabez Dickson
+
 <img src="img/poster.jpeg" alt="TAC Zero Trust Case Management Platform Poster" style="float: right; height: auto; max-height: 100vh; max-width: 50%; margin-left: 20px; margin-bottom: 20px;">
 <div style="max-width: 35%; float: left;">
 
-## TAC Zero Trust Case Management Platform - Jabez Dickson
 
 
 ### Abstract

@@ -1,7 +1,8 @@
+# PassKey Auth - Stephen Power
+
 <img src="img/poster.jpeg" alt="PassKey Auth Poster" style="float: right; height: auto; max-height: 100vh; max-width: 50%; margin-left: 20px; margin-bottom: 20px;">
 <div style="max-width: 35%; float: left;">
 
-## PassKey Auth - Stephen Power
 
 
 ### Abstract

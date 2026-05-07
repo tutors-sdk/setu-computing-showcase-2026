@@ -1,7 +1,8 @@
+# {FixMyPhone} Phone Troubleshooting Guide - Mubarak Alabi
+
 <img src="img/poster.jpeg" alt="{FixMyPhone} Phone Troubleshooting Guide Poster" style="float: right; height: auto; max-height: 100vh; max-width: 50%; margin-left: 20px; margin-bottom: 20px;">
 <div style="max-width: 35%; float: left;">
 
-## {FixMyPhone} Phone Troubleshooting Guide - Mubarak Alabi
 
 
 ### Abstract

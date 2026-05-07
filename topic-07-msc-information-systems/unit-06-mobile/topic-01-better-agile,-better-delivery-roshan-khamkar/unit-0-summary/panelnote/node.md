@@ -1,8 +1,9 @@
+# Better Agile, Better Delivery - Roshan Khamkar
+
 <div style="max-width: 35%; float: left;">
 
 <img src="img/profile.jpeg" alt="Roshan Khamkar" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
 
-## Better Agile, Better Delivery - Roshan Khamkar
 
 
 ### Abstract

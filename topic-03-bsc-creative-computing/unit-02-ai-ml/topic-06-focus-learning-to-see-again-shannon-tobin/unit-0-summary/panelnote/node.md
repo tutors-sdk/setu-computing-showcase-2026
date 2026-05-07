@@ -1,7 +1,8 @@
+# Focus-Learning to See Again - Shannon Tobin
+
 <img src="img/poster.jpeg" alt="Focus-Learning to See Again Poster" style="float: right; height: auto; max-height: 100vh; max-width: 50%; margin-left: 20px; margin-bottom: 20px;">
 <div style="max-width: 35%; float: left;">
 
-## Focus-Learning to See Again - Shannon Tobin
 
 
 ### Abstract

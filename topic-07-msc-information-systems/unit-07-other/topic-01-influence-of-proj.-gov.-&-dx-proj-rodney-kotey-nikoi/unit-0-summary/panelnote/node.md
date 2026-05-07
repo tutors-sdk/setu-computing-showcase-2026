@@ -1,8 +1,9 @@
+# Influence of PROJ. GOV. & DX PROJ - Rodney Kotey Nikoi
+
 <div style="max-width: 35%; float: left;">
 
 <img src="img/profile.jpeg" alt="Rodney Kotey Nikoi" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
 
-## Influence of PROJ. GOV. & DX PROJ - Rodney Kotey Nikoi
 
 
 ### Abstract

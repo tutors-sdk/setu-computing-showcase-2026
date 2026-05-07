@@ -1,8 +1,9 @@
+# AI to Predict Telco Users’ Satisfaction - Shoumik Hossain
+
 <div style="max-width: 35%; float: left;">
 
 <img src="img/profile.jpeg" alt="Shoumik Hossain" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
 
-## AI to Predict Telco Users’ Satisfaction - Shoumik Hossain
 
 
 ### Abstract

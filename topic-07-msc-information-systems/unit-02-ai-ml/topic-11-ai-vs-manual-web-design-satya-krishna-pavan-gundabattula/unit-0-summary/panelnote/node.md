@@ -1,7 +1,8 @@
+# AI vs Manual Web Design - Satya Krishna Pavan Gundabattula
+
 <img src="img/poster.jpeg" alt="AI vs Manual Web Design Poster" style="float: right; height: auto; max-height: 100vh; max-width: 50%; margin-left: 20px; margin-bottom: 20px;">
 <div style="max-width: 35%; float: left;">
 
-## AI vs Manual Web Design - Satya Krishna Pavan Gundabattula
 
 
 ### Abstract

@@ -1,8 +1,9 @@
+# Multi-Angle Ultrasound Reconstruction - Kazi Md Al Wakil
+
 <div style="max-width: 35%; float: left;">
 
 <img src="img/profile.jpeg" alt="Kazi Md Al Wakil" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
 
-## Multi-Angle Ultrasound Reconstruction - Kazi Md Al Wakil
 
 
 ### Abstract

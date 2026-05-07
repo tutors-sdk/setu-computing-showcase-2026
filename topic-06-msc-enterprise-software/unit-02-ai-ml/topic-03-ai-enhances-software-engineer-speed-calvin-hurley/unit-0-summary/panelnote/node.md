@@ -1,8 +1,9 @@
+# AI Enhances Software Engineer Speed - Calvin Hurley
+
 <div style="max-width: 35%; float: left;">
 
 <img src="img/profile.jpeg" alt="Calvin Hurley" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
 
-## AI Enhances Software Engineer Speed - Calvin Hurley
 
 
 ### Abstract

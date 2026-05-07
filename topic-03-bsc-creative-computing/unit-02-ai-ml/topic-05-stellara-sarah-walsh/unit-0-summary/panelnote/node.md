@@ -1,7 +1,8 @@
+# Stellara - Sarah Walsh
+
 <img src="img/poster.jpeg" alt="Stellara Poster" style="float: right; height: auto; max-height: 100vh; max-width: 50%; margin-left: 20px; margin-bottom: 20px;">
 <div style="max-width: 35%; float: left;">
 
-## Stellara - Sarah Walsh
 
 
 ### Abstract

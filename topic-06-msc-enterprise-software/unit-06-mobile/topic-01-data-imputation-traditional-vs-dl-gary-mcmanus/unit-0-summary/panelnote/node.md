@@ -1,8 +1,9 @@
+# Data Imputation: Traditional vs DL - Gary McManus
+
 <div style="max-width: 35%; float: left;">
 
 <img src="img/profile.jpeg" alt="Gary McManus" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
 
-## Data Imputation: Traditional vs DL - Gary McManus
 
 
 ### Abstract

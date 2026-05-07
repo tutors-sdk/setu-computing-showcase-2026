@@ -1,7 +1,8 @@
+# {VitaGym}, Your Smart Fitness Companion - Diego Pabon Torres
+
 <img src="img/poster.jpeg" alt="{VitaGym}, Your Smart Fitness Companion Poster" style="float: right; height: auto; max-height: 100vh; max-width: 50%; margin-left: 20px; margin-bottom: 20px;">
 <div style="max-width: 35%; float: left;">
 
-## {VitaGym}, Your Smart Fitness Companion - Diego Pabon Torres
 
 
 ### Abstract

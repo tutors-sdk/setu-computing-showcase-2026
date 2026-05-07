@@ -1,8 +1,9 @@
+# Carbon-Aware Scheduling in Kubernetes - Conor McDonagh Rollo
+
 <div style="max-width: 35%; float: left;">
 
 <img src="img/profile.jpeg" alt="Conor McDonagh Rollo" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
 
-## Carbon-Aware Scheduling in Kubernetes - Conor McDonagh Rollo
 
 
 ### Abstract

@@ -1,8 +1,9 @@
+# Bots at the Gate: Do Contributors Stay? - Amador Pahim Segundo
+
 <div style="max-width: 35%; float: left;">
 
 <img src="img/profile.jpeg" alt="Amador Pahim Segundo" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
 
-## Bots at the Gate: Do Contributors Stay? - Amador Pahim Segundo
 
 
 ### Abstract

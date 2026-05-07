@@ -1,7 +1,8 @@
+# Tri-Hard - Robert ODonnell
+
 <img src="img/poster.jpeg" alt="Tri-Hard Poster" style="float: right; height: auto; max-height: 100vh; max-width: 50%; margin-left: 20px; margin-bottom: 20px;">
 <div style="max-width: 35%; float: left;">
 
-## Tri-Hard - Robert ODonnell
 
 
 ### Abstract

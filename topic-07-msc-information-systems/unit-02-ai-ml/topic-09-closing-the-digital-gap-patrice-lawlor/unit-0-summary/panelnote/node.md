@@ -1,8 +1,9 @@
+# Closing the Digital Gap - Patrice Lawlor
+
 <div style="max-width: 35%; float: left;">
 
 <img src="img/profile.jpeg" alt="Patrice Lawlor" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
 
-## Closing the Digital Gap - Patrice Lawlor
 
 
 ### Abstract

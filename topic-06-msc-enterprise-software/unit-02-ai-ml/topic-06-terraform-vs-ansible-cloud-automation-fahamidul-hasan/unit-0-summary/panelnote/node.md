@@ -1,8 +1,9 @@
+# Terraform vs Ansible: Cloud Automation - Fahamidul Hasan
+
 <div style="max-width: 35%; float: left;">
 
 <img src="img/profile.jpeg" alt="Fahamidul Hasan" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
 
-## Terraform vs Ansible: Cloud Automation - Fahamidul Hasan
 
 
 ### Abstract

@@ -1,7 +1,8 @@
+# Sun Life Metaverse - Malgorzata Victor
+
 <img src="img/poster.jpeg" alt="Sun Life Metaverse Poster" style="float: right; height: auto; max-height: 100vh; max-width: 50%; margin-left: 20px; margin-bottom: 20px;">
 <div style="max-width: 35%; float: left;">
 
-## Sun Life Metaverse - Malgorzata Victor
 
 
 ### Abstract

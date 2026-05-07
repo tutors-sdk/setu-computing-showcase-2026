@@ -1,8 +1,9 @@
+# Designing Intelligent Business Processes - Sathya Prakash Vallepalli
+
 <div style="max-width: 35%; float: left;">
 
 <img src="img/profile.jpeg" alt="Sathya Prakash Vallepalli" style="float: left; width: 150px; border-radius: 10px; margin-right: 20px; margin-bottom: 20px;">
 
-## Designing Intelligent Business Processes - Sathya Prakash Vallepalli
 
 
 ### Abstract
