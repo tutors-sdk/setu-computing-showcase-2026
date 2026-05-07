@@ -1,4 +1,4 @@
-## DrillTek - Joshua Smiles
+# DrillTek - Joshua Smiles
 
 <img src="img/llm.png" alt="DrillTek Poster" style="float: right; height: auto; max-height: 100vh; max-width: 65%; margin-left: 20px; margin-bottom: 20px;">
 
