@@ -1,6 +1,6 @@
 # AMTCS - IoT project on Automating measurements using a temperature controller and spectrometer, initially simulated (client - Marina Zubialevich
 
-<img src="img/llm.png" alt="AMTCS - IoT project on Automating measurements using a temperature controller and spectrometer, initially simulated (client Poster" style="float: right; height: auto; max-height: 100vh; max-width: 65%; margin-left: 20px; margin-bottom: 20px;">
+<img src="img/poster.jpeg" alt="AMTCS - IoT project on Automating measurements using a temperature controller and spectrometer, initially simulated (client Poster" style="float: right; height: auto; max-height: 100vh; max-width: 65%; margin-left: 20px; margin-bottom: 20px;">
 
 
 ### Abstract

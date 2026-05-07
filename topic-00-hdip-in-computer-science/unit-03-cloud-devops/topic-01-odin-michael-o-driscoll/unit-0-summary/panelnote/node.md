@@ -1,6 +1,6 @@
 # Odin - Michael O'Driscoll
 
-<img src="img/llm.png" alt="Odin Poster" style="float: right; height: auto; max-height: 100vh; max-width: 65%; margin-left: 20px; margin-bottom: 20px;">
+<img src="img/poster.jpeg" alt="Odin Poster" style="float: right; height: auto; max-height: 100vh; max-width: 65%; margin-left: 20px; margin-bottom: 20px;">
 
 
 ### Abstract

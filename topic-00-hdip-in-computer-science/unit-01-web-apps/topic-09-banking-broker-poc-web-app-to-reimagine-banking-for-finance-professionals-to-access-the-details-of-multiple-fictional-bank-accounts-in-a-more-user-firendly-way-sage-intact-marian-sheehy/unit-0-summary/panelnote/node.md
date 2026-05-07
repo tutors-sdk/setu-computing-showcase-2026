@@ -1,6 +1,6 @@
 # Banking Broker - Poc Web App to reimagine banking for Finance Professionals to access the details of multiple fictional bank accounts in a more user firendly way. (Sage Intact) - Marian Sheehy
 
-<img src="img/llm.png" alt="Banking Broker - Poc Web App to reimagine banking for Finance Professionals to access the details of multiple fictional bank accounts in a more user firendly way. (Sage Intact) Poster" style="float: right; height: auto; max-height: 100vh; max-width: 65%; margin-left: 20px; margin-bottom: 20px;">
+<img src="img/poster.jpeg" alt="Banking Broker - Poc Web App to reimagine banking for Finance Professionals to access the details of multiple fictional bank accounts in a more user firendly way. (Sage Intact) Poster" style="float: right; height: auto; max-height: 100vh; max-width: 65%; margin-left: 20px; margin-bottom: 20px;">
 
 
 ### Abstract

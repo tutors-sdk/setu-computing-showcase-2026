@@ -1,6 +1,6 @@
 # DOM - Shaun Walsh
 
-<img src="img/llm.png" alt="DOM Poster" style="float: right; height: auto; max-height: 100vh; max-width: 65%; margin-left: 20px; margin-bottom: 20px;">
+<img src="img/poster.jpeg" alt="DOM Poster" style="float: right; height: auto; max-height: 100vh; max-width: 65%; margin-left: 20px; margin-bottom: 20px;">
 
 
 ### Abstract
