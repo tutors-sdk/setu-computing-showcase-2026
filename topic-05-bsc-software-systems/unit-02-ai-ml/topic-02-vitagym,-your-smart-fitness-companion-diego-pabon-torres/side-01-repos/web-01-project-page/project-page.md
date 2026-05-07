@@ -1,0 +1,1 @@
+{VitaGym}, Your Smart Fitness Companion
