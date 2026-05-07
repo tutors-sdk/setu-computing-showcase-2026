@@ -1,4 +1,4 @@
-### Project Poster
+# Project Poster
 
 <img src="img/drilltek-poster.jpeg" alt="DrillTek Poster" style="display: block; margin-left: auto; margin-right: auto; height: auto; max-height: 100vh; max-width: 65%; margin-bottom: 20px;">
 
