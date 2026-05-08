@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "WebFetch(domain:tutors-reference-manual.netlify.app)",
-      "Bash(python3 *)"
+      "Bash(python3 *)",
+      "Bash(find unit-01-projects-by-programme/topic-* -maxdepth 1 -name \"unit-*\" -type d)",
+      "Bash(awk -F/ '{print $NF}')"
     ]
   }
 }
