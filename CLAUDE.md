@@ -275,7 +275,6 @@ This course can be deployed to:
 
 ## Resources
 
-- **Tutors Documentation**: https://tutors.dev
-- **Tutors Reference Manual**: https://tutors-reference-manual.netlify.app/
+- **Tutors Documentation (LLM Friendly)**: https://tutors-reference-manual.netlify.app/llms/tutors-reference-manual-complete-llms.txt
 - **Iconify Icon Sets**: https://icon-sets.iconify.design/
 - **Image Resizer**: https://nodeca.github.io/pica/demo
