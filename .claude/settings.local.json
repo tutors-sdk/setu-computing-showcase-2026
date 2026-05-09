@@ -4,7 +4,10 @@
       "WebFetch(domain:tutors-reference-manual.netlify.app)",
       "Bash(python3 *)",
       "Bash(find unit-01-projects-by-programme/topic-* -maxdepth 1 -name \"unit-*\" -type d)",
-      "Bash(awk -F/ '{print $NF}')"
+      "Bash(awk -F/ '{print $NF}')",
+      "Bash(chmod +x check_orientation.sh)",
+      "Bash(./check_orientation.sh)",
+      "Bash(md5 *)"
     ]
   }
 }
